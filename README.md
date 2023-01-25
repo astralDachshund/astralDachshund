@@ -1,4 +1,9 @@
-- 👋 Hi, I’m @zanahtile
-- 👀 I’m interested in C#, JavaScript, RAPID and PLC programming
-- 🌱 I’m currently learning C#, RAPID and PLC programming
+- 👋 Hi, I’m @zanahtile !
+- 🌍 I'm from Finland!
+- 💻 I have a Bachelor's Degree of Mechanical Engineering (B.Eng) with large amount of automation, programming and electrics within the education program
+- 🕹️ In my free time, I’m learning Full Stack Development of web and mobile applications, Arduino microcontroller programming and integration of IOT in both
+- 🌱 I’m currently working full time as a automation engineer, working with Siemens and ABB programming and electrical tools for industrial solutions
+- 🛒 My customers are medium to large size industrial bakeries around the world
+- 🛰️ I have strongly gravitated towards technical development, automation programming, electrical engineering, robotics and pneumatics in my work life
+- 🧠 My other interests are for example robots, AI, space and aeronautics
 - 📫 Send me a message if you wish to know something!
