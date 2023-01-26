@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zanahtile !
+- 👋 Hi, I’m @astralDachshund !
 - 🌍 I'm from Finland!
 - 💻 I have a Bachelor's Degree of Mechanical Engineering (B.Eng) with large amount of automation, programming and electrics within the education program
 - 🕹️ In my free time, I’m learning Full Stack Development of web and mobile applications, Arduino microcontroller programming and integration of IOT in both
